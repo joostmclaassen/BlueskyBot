@@ -206,7 +206,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@joostmc](https://twitter.com/joostmc) - joostclaassen65@gmail.com
+Your Name - [@joostmc](https://bluesky.com/joostmc.bsky.social) - joostclaassen65@gmail.com
 
 Project Link: [https://github.com/joostmclaassen/BlueskyBot](https://github.com/joostmclaassen/BlueskyBot)
 
