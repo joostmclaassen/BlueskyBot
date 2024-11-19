@@ -6,8 +6,8 @@ import random
 import os
 
 # Constants for Bluesky credentials
-BLUESKY_HANDLE = "handle"
-BLUESKY_APP_PASSWORD = "password"
+BLUESKY_HANDLE = "your.bsky.handle"
+BLUESKY_APP_PASSWORD = "your.bsky.password"
 
 # Function to create a session and get the access token
 def create_session():
